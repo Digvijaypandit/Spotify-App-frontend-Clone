@@ -7,11 +7,13 @@ Responsive Design: Optimized for various screen sizes, ensuring a seamless exper
 Interactive UI Elements: Navigation bar, playlists, and song selection are fully interactive, aiming to provide a Spotify-like user experience.
 Mock Data Integration: Utilizes mock data for playlist, album, and song displays.
 Music Player Controls: Includes basic music controls like play/pause, skip, and volume adjustments (non-functional, UI-only).
+
 🛠️ Tech Stack
 React with functional components and hooks
 CSS/SCSS for styling and responsive design
 React Router for seamless navigation
 Context API (or Redux) for state management (if applicable)
+
 🚀 Getting Started
 Clone the repository:
 bash
@@ -25,8 +27,6 @@ Start the development server:
 bash
 Copy code
 npm start
-📸 Screenshots
-Showcase some screenshots of the app interface here if available.
 
 📚 Additional Information
 This project is for educational purposes only and does not provide any real streaming functionalities. It is a frontend clone intended to demonstrate UI development skills and is not associated with or endorsed by Spotify.
